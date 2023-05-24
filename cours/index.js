@@ -59,3 +59,15 @@
 // } catch (err) {
 //   console.log(err);
 // }
+
+//======================================================//
+//
+//         STRICT MODE
+//
+//======================================================//
+// Permet d'avoir du JS plus "cadré"
+
+"use strict";
+
+voiture = "Toyota";
+console.log(voiture);
