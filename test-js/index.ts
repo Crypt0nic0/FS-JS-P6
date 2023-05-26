@@ -6,4 +6,4 @@ const sayName = (name?: string) => {
 }
 
 sayName("Nico");
-sayName(23);
+// sayName(23); Ne fonctionne pas :)
